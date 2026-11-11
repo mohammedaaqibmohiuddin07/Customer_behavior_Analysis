@@ -312,8 +312,6 @@ python customer_shopping_behavior_analysis.py
 - Update the database connection credentials in the Python script.
 - Execute the Python script to load the cleaned dataset into the PostgreSQL database.
 
-**Note:** Do not upload database passwords or other sensitive credentials to GitHub.
-
 ### Step 6: Execute SQL Queries
 
 - Open pgAdmin.
